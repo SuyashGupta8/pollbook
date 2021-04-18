@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+#white, .white-color{
+  color: white !important;
+  }
+
+.login{
+  display: flex;
+  flex-flow: column wrap;
+  margin-left: 30%;
+  margin-top: 50px; 
+  justify-content: center;
+  width: 30%;
+}
